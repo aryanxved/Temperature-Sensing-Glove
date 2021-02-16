@@ -14,11 +14,8 @@ During the creation of A.Sense I was committed into solving problems related to 
 ### Description
 
 My innovation is a Temperature Sensing glove. Just like the name says, it is a temperature sensing glove which uses a temperature sensor (also known as the TMP36). The temperature  sensor takes in infrared radiation given off by heat which then are converted into values. The Arduino than takes in these values and converts them into degrees celsius. Due to my coding, The arduino would send information to the corresponding digital and analog pins based on the temperature reading. If the temperature is between -10 degrees and 30 degrees, a green LED would light up indicating that it is normal. If it is between 30 - 35 degrees one red LED would light up, 2 red led’s for 35-40 degrees and 3 for 40 degrees and higher. For the one blue LED to light up the temperature would have to be between -10 and -28, 2 for -28 to -40 and 3 for -40 and up. Basically the LED’s have been coded based on severity depending on how hot or cold things are. It gives you an indication of how harmful the temperature can be to you body. If the temperature reaches higher than 40 or lower than -40. A piezo will sound. Alerting you that you may suffer serious damage to your body.  As you can see, just some coding, wiring and effort can easily solve an serious issues in today's society.
-
 #
-#
-
-## Technology Used
+# Technology Used
 #
 ### Arduino Uno
   

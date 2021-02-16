@@ -2,7 +2,7 @@
 
 #### External Project Links
  - Project Website: https://sites.google.com/view/asense/home
- - 
+ - Personal Website: www.aryanved.com
 
 
 ### Problem/Motivation 

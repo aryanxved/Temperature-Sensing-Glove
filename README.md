@@ -1,4 +1,4 @@
-# Temprature-Sensing-Glove
+# Temperature-Sensing-Glove
 
 A.Sense is a glove designed to help people have a sense of what they feel, even if they can't! People with Cognitive Insensitivity to pain cannot feel pain. Isn't that good? Well, no its not. You may take pain are something harmful to you, and you may wish at times that you couldn't feel pain. Pain is actually there to help you, protect you from further damaging your body. Now if there are people who cannot feel pain how do they know when they are harming their bodies or not?
 
